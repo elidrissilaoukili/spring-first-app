@@ -1,4 +1,4 @@
-Creating CRUD app with Spring boot framework & react.js
+Creating CRUD app with Spring boot framework & react.js & MySQL
 
 ![2](https://github.com/user-attachments/assets/f4541972-a1c5-492e-8b8b-d17e7a5faeaa)# spring-first-app
 ![home](https://github.com/user-attachments/assets/2215fdc1-0c30-4dad-a05b-83d0a38816c9)
