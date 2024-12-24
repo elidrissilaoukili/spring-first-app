@@ -4,8 +4,6 @@ import com.example.employee.entity.Employee;
 import com.example.employee.service.EmployeeService;
 
 import jakarta.persistence.EntityNotFoundException;
-import lombok.Getter;
-import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
